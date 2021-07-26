@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.3ad8b0d6.chunk.js",
-    "main.js.map": "/static/js/main.3ad8b0d6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ca9c227b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ca9c227b.js.map",
-    "static/css/2.c7c62aa4.chunk.css": "/static/css/2.c7c62aa4.chunk.css",
-    "static/js/2.c667b033.chunk.js": "/static/js/2.c667b033.chunk.js",
-    "static/js/2.c667b033.chunk.js.map": "/static/js/2.c667b033.chunk.js.map",
-    "static/js/3.b8cf152a.chunk.js": "/static/js/3.b8cf152a.chunk.js",
-    "static/js/3.b8cf152a.chunk.js.map": "/static/js/3.b8cf152a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c7c62aa4.chunk.css.map": "/static/css/2.c7c62aa4.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.c667b033.chunk.js.LICENSE.txt": "/static/js/2.c667b033.chunk.js.LICENSE.txt"
+    "main.css": "/alberto-site/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/alberto-site/static/js/main.caff264d.chunk.js",
+    "main.js.map": "/alberto-site/static/js/main.caff264d.chunk.js.map",
+    "runtime-main.js": "/alberto-site/static/js/runtime-main.789b9085.js",
+    "runtime-main.js.map": "/alberto-site/static/js/runtime-main.789b9085.js.map",
+    "static/css/2.c7c62aa4.chunk.css": "/alberto-site/static/css/2.c7c62aa4.chunk.css",
+    "static/js/2.c667b033.chunk.js": "/alberto-site/static/js/2.c667b033.chunk.js",
+    "static/js/2.c667b033.chunk.js.map": "/alberto-site/static/js/2.c667b033.chunk.js.map",
+    "static/js/3.b8cf152a.chunk.js": "/alberto-site/static/js/3.b8cf152a.chunk.js",
+    "static/js/3.b8cf152a.chunk.js.map": "/alberto-site/static/js/3.b8cf152a.chunk.js.map",
+    "index.html": "/alberto-site/index.html",
+    "static/css/2.c7c62aa4.chunk.css.map": "/alberto-site/static/css/2.c7c62aa4.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/alberto-site/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c667b033.chunk.js.LICENSE.txt": "/alberto-site/static/js/2.c667b033.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca9c227b.js",
+    "static/js/runtime-main.789b9085.js",
     "static/css/2.c7c62aa4.chunk.css",
     "static/js/2.c667b033.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.3ad8b0d6.chunk.js"
+    "static/js/main.caff264d.chunk.js"
   ]
 }
