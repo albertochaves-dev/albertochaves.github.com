@@ -17,3 +17,14 @@
 body > #root > div {
     height: 100vh;
   }
+
+.copyright{
+    text-align: center;
+    color: white;
+}
+
+.copyright .highlight{
+    text-align: center;
+    color: rgb(255, 0, 119);
+    font-weight: bold;
+}
