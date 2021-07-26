@@ -21,6 +21,7 @@ body > #root > div {
 .copyright{
     text-align: center;
     color: white;
+    padding-top: 20px;
 }
 
 .copyright .highlight{
