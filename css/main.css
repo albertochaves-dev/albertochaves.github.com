@@ -82,8 +82,7 @@ body {
  * -------------------------------------------------------------------
  */
 a, a:visited {
-	color: #000000;
-	-moz-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
@@ -1326,7 +1325,7 @@ header .logo a {
 }
 .intro-content h1 {
 	color: #FFFFFF;
-	font-size: 8.4rem;
+	font-size: 8rem;
 	line-height: 1.071;
 	max-width: 900px;
 	margin-top: 0;
@@ -1334,19 +1333,22 @@ header .logo a {
 	margin-left: auto;
 	margin-right: auto;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	font-family: tourney-regular;
 }
 .intro-content h5 {
 	color: #cc005f;
-	font-size: 2.3rem;
+	font-size: 4.5rem;
 	line-height: 1.565;
 	margin-bottom: 0;
 	text-transform: uppercase;
 	letter-spacing: .3rem;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+	font-family: tourney-regular;
 }
 .intro-content .intro-position {
-	font-family: "lora-regular", serif;
-	font-size: 1.7rem;
+	padding-top: 15px;
+	font-family: hack-regular;
+	font-size: 2.6rem;
 	line-height: 2.4rem;
 	text-transform: uppercase;
 	letter-spacing: .2rem;
@@ -1354,17 +1356,16 @@ header .logo a {
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
 .intro-content .intro-position span {
+	text-shadow: rgba(0, 0, 0, 1);
 	display: inline-block;
 }
 .intro-content .intro-position span::after {
-	content: "|";
 	text-align: center;
 	display: inline-block;
 	padding: 0 8px 0 14px;
 	color: rgba(255, 255, 255, 0.3);
 }
 .intro-content .intro-position span:first-child::before {
-	content: "|";
 	text-align: center;
 	display: inline-block;
 	padding: 0 14px 0 8px;
@@ -1527,7 +1528,7 @@ header .logo a {
 }
 .about-content .info-list {
 	list-style: none;
-	margin-left: 0;
+	margin-left: -20px;
 }
 .about-content .info-list li {
 	padding: 0 0 1.5rem 0;
@@ -2407,6 +2408,7 @@ header .logo a {
 	display: block;
 }
 .contact-info {
+	position: relative;
 	margin: 4.8rem auto 0;
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.5rem;

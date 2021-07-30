@@ -1646,7 +1646,6 @@ h1, .h1 {
 }
 
 h2, .h2, h3, .h3, h4, .h4 {
-    margin-top: var(--vspace-2_5);
     margin-bottom: var(--vspace-0_5);
 }
 
@@ -3252,7 +3251,7 @@ input[type="button"].btn--primary:focus {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .4rem;
-    background-color: var(--color-2);
+    background-color: transparent;
     color: white;
     width: var(--header-height);
     height: var(--header-height);

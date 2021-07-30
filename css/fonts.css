@@ -109,25 +109,45 @@
 ================================================================================ */
 @font-face {
     font-family: 'hack-bold';
-    src: url('../fonts/Hack-Bold.ttf') format('truetype');
+    src: url('../fonts/hack/Hack-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'hack-bold-italic';
-    src: url('../fonts/Hack-BoldItalic.ttf') format('truetype');
+    src: url('../fonts/hack/Hack-BoldItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'hack-italic';
-    src: url('../fonts/Hack-Italic.ttf') format('truetype');
+    src: url('../fonts/hack/Hack-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'hack-regular';
-    src: url('../fonts/Hack-Regular.ttf') format('truetype');
+    src: url('../fonts/hack/Hack-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+ * PressStart2P 
+================================================================================ */
+@font-face {
+    font-family: 'ps2p-regular';
+    src: url('../fonts/Press_Start_2P/PressStart2P-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+ * Tourney 
+================================================================================ */
+@font-face {
+    font-family: 'tourney-regular';
+    src: url('../fonts/Tourney/static/Tourney/Tourney-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
