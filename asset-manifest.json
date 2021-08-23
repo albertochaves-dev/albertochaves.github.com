@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/alberto-site/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/alberto-site/static/js/main.a3d58daf.chunk.js",
-    "main.js.map": "/alberto-site/static/js/main.a3d58daf.chunk.js.map",
+    "main.js": "/alberto-site/static/js/main.41e2bcc4.chunk.js",
+    "main.js.map": "/alberto-site/static/js/main.41e2bcc4.chunk.js.map",
     "runtime-main.js": "/alberto-site/static/js/runtime-main.07c87eb4.js",
     "runtime-main.js.map": "/alberto-site/static/js/runtime-main.07c87eb4.js.map",
     "static/css/2.c7c62aa4.chunk.css": "/alberto-site/static/css/2.c7c62aa4.chunk.css",
-    "static/js/2.4e5d736c.chunk.js": "/alberto-site/static/js/2.4e5d736c.chunk.js",
-    "static/js/2.4e5d736c.chunk.js.map": "/alberto-site/static/js/2.4e5d736c.chunk.js.map",
+    "static/js/2.59af29ff.chunk.js": "/alberto-site/static/js/2.59af29ff.chunk.js",
+    "static/js/2.59af29ff.chunk.js.map": "/alberto-site/static/js/2.59af29ff.chunk.js.map",
     "static/js/3.27ba428b.chunk.js": "/alberto-site/static/js/3.27ba428b.chunk.js",
     "static/js/3.27ba428b.chunk.js.map": "/alberto-site/static/js/3.27ba428b.chunk.js.map",
     "index.html": "/alberto-site/index.html",
     "static/css/2.c7c62aa4.chunk.css.map": "/alberto-site/static/css/2.c7c62aa4.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/alberto-site/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.4e5d736c.chunk.js.LICENSE.txt": "/alberto-site/static/js/2.4e5d736c.chunk.js.LICENSE.txt"
+    "static/js/2.59af29ff.chunk.js.LICENSE.txt": "/alberto-site/static/js/2.59af29ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.07c87eb4.js",
     "static/css/2.c7c62aa4.chunk.css",
-    "static/js/2.4e5d736c.chunk.js",
+    "static/js/2.59af29ff.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a3d58daf.chunk.js"
+    "static/js/main.41e2bcc4.chunk.js"
   ]
 }
