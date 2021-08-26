@@ -8,11 +8,11 @@
 .fab, .far {
     font-size: 40px;
 }
-@keyframes blink{from,to{color:transparent}50%{color:#FFFFFF}}
-@-moz-keyframes blink{from,to{color:transparent}50%{color:#FFFFFF}}
-@-webkit-keyframes blink{from,to{color:transparent}50%{color:#FFFFFF}}
-@-ms-keyframes blink{from,to{color:transparent}50%{color:#FFFFFF}}
-@-o-keyframes blink{from,to{color:transparent}50%{color:#FFFFFF}}
+@keyframes blink{from,to{color:transparent}50%{color:#595bff}}
+@-moz-keyframes blink{from,to{color:transparent}50%{color:#595bff}}
+@-webkit-keyframes blink{from,to{color:transparent}50%{color:#595bff}}
+@-ms-keyframes blink{from,to{color:transparent}50%{color:#595bff}}
+@-o-keyframes blink{from,to{color:transparent}50%{color:#595bff}}
 
 body > #root > div {
     height: 100vh;
@@ -30,10 +30,15 @@ body > #root > div {
     font-weight: bold;
 }
 
+#skills{
+    padding-bottom: 15rem;
+}
+
 .featurette {
     font-size: 1.8rem;
     line-height: 1.5;
     text-align: center;
+    padding-top: 4.2rem;
 }
 .featurette-icon {
     display: block;

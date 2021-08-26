@@ -1059,10 +1059,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro h5 {
 	color: #0091ca;
-	font-size: 2.6rem;
-	line-height: 1.875;
+	font-size: 3.6rem;
 	margin-bottom: 0.3rem;
 	letter-spacing: .4rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 
 /**
@@ -1497,7 +1498,6 @@ header .logo a {
  */
 #about {
 	background: #FFFFFF;
-	padding-top: 5rem;
 	padding-bottom: 15rem;
 }
 #about .section-intro {
@@ -1627,7 +1627,6 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #resume {
-	padding-top: 6rem;
 	padding-bottom: 12rem;
 }
 
@@ -1797,7 +1796,6 @@ header .logo a {
  */
 #portfolio {
 	background: #FFFFFF;
-	padding-top: 6rem;
 	padding-bottom: 12rem;
 }
 #portfolio .folio-item {
@@ -2257,7 +2255,6 @@ header .logo a {
  */
 #contact {
 	background: #151515;
-	padding-top: 6rem;
 	padding-bottom: 7.2rem;
 }
 #contact .section-intro h1 {
